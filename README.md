@@ -7,7 +7,7 @@ I know U only have 1 friend so thats why this table has only 1 Row.
 ## **You Need**:
 
 - __Python__
-- __Git ( Optional )__
+- __Git__
 - __And some Python Libraries__
 
 
