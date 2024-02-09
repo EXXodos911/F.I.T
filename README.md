@@ -4,7 +4,7 @@ This is a beutiful table done with python rich table library  -  [Here](https://
 
 I know U only have 1 friend so thats why this table has only 1 Row.
 
-## **You Need**:
+## **Requirments**:
 
 - __Python__
 - __Git__
