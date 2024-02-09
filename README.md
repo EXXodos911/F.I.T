@@ -8,7 +8,6 @@ I know U only have 1 friend so thats why this table has only 1 Row.
 
 - __Python__
 - __Git__
-- __And some Python Libraries__
 
 
 
