@@ -1,21 +1,30 @@
 # **F.I.T** - Friends Info Table
 
-This is a beutiful table done with python rich table library  -  [Here](https://github.com/Textualize/rich)
-
+A beutiful CLI table done with [rich](https://github.com/Textualize/rich)
 I know U only have 1 friend so thats why this table has only 1 Row.
 
-## **Requirments**:
-
-- __Python__
-- __Git__
-
-
+## **Requirments**
+Install the requirments with pip:
+```
+pip install phonenumbers
+```
+```
+pip install rich
+```
+```
+pip install art
+```
+**Update existing requirments:** ```pip install rich --upgrade```, ```pip install phonenumbers --upgrade```, ```pip install art --upgrade```\
 
 ## **Installation**:
+Clone With [Git](https://git-scm.com/download/win):
+```git clone https://github.com/EXXodos911/F.I.T```
 
-1. ```git clone https://github.com/EXXodos911/F.I.T```
-
-2. ```cd F.I.T```
+Enter the Folder:
+```cd F.I.T```
    
-3. ```Double click the bat file that will install the needed Python Libraries and then will run the .py file```
+Run The Script:
+```
+python FriendListTable.py
+```
 
