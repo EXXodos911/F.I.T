@@ -18,10 +18,14 @@ pip install art
 
 ## **Installation**:
 Clone With [Git](https://git-scm.com/download/win):
-```git clone https://github.com/EXXodos911/F.I.T```
+```
+git clone https://github.com/EXXodos911/F.I.T
+```
 
 Enter the Folder:
-```cd F.I.T```
+```
+cd F.I.T
+```
    
 Run The Script:
 ```
